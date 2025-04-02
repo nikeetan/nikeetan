@@ -18,9 +18,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nikeetan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nikeetan&theme=merko&margin-w=15" alt="trophies" />
-  </a>
+  </a> -->
 </div>
 
 ###
@@ -28,7 +28,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 - 🌱 I’m currently learning **Django, Swift, and System Design**.
-- 👨‍💻 All of my projects are available at [https://github.com/nikeetan/](https://github.com/nikeetan/).
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikeetan/).
 - 💬 Ask me about **Data Structures & Algorithms, Backend Development, Databases, Data Science, and Computer Networks**.
 - 📫 How to reach me: **niketan18d@gmail.com**.
 - 🌐 Check out my website : [Portfolio](https://nikeetan.github.io/Portfolio/)
