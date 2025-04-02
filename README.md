@@ -28,10 +28,10 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 - 🌱 I’m currently learning **Django, Swift, and System Design**.
+- - 🌐 Check out my website : [Portfolio](https://nikeetan.github.io/Portfolio/)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/nikeetan/).
 - 💬 Ask me about **Data Structures & Algorithms, Backend Development, Databases, Data Science, and Computer Networks**.
 - 📫 How to reach me: **niketan18d@gmail.com**.
-- 🌐 Check out my website : [Portfolio](https://nikeetan.github.io/Portfolio/)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1zA0sSVAOU_rT380QM3GevWCpDLUsotH3/view?usp=sharing).
 - ⚡ Fun fact: **I play cricket and love exploring new places on my bike!**
 
